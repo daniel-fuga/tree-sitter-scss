@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"nan@^2.11.1":
-  "integrity" "sha512-isWHgVjnFjh2x2yuJ/tj3JbwoHu3UC2dX5G/88Cm24yB6YopVgxvBObDY7n5xW6ExmFhJpSEQqFPvq9zaXc8Jw=="
-  "resolved" "https://registry.npmjs.org/nan/-/nan-2.14.1.tgz"
-  "version" "2.14.1"
+nan@^2.11.1:
+  version "2.14.1"
+  resolved "https://registry.npmjs.org/nan/-/nan-2.14.1.tgz"
+  integrity sha512-isWHgVjnFjh2x2yuJ/tj3JbwoHu3UC2dX5G/88Cm24yB6YopVgxvBObDY7n5xW6ExmFhJpSEQqFPvq9zaXc8Jw==
 
-"tree-sitter-cli@^0.19.4":
-  "integrity" "sha512-p2kxjuoQeauXBu5eE+j7c5BMCRXmc17EiAswnnWn3ieUlHXBkA0Z7vRnaCSElDR34MhZnSgqgzuuzQk0cDqCjw=="
-  "resolved" "https://registry.npmjs.org/tree-sitter-cli/-/tree-sitter-cli-0.19.4.tgz"
-  "version" "0.19.4"
+tree-sitter-cli@^0.19.4:
+  version "0.19.4"
+  resolved "https://registry.npmjs.org/tree-sitter-cli/-/tree-sitter-cli-0.19.4.tgz"
+  integrity sha512-p2kxjuoQeauXBu5eE+j7c5BMCRXmc17EiAswnnWn3ieUlHXBkA0Z7vRnaCSElDR34MhZnSgqgzuuzQk0cDqCjw==
